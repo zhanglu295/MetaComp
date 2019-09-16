@@ -45,7 +45,8 @@ We need a list file including five columns with **(tab as delimiter)**.<BR/>
 ****<BR/>
 **-s** : <BR/>
 
-A file contains sample names, one line per sample.
+A file contains sample names, each line per sample.
+
 **-o** : <BR/>
 Output path.
  
