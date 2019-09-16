@@ -27,7 +27,7 @@ Install required python libraries:  `pip install  pandas numpy rpy2 matplotlib s
 
 ### Usage
 
-**python Lazy_MAEP.py -l DIR -s DIR -o DIR** <BR/>
+**python Lazy_MAEP.py -l data.list -s samplename -o out_path** <BR/>
   
 optional arguments:  
 
